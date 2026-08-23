@@ -34,6 +34,7 @@ HTML is used to create the structure of the application's pages, including:
 * Login page
 * Registration page
 * Chat room page
+<img width="1774" height="1330" alt="image" src="https://github.com/user-attachments/assets/fbbd8165-c784-4d6f-b956-7bf2ade80d5e" />
 
 The UI structure follows the provided FSE Chat Room mockup.
 
