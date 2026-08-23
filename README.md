@@ -2,7 +2,7 @@
 
 FSE Chat Room is a simple real-time web chat application built for the Foundations of Software Engineering preparation assignment.
 
-
+You can view the project here: <https://github.com/cmu-fse-prep/qiyuez-cmu-F26>
 
 ## PROJECT PURPOSE
 
